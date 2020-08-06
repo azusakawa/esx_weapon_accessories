@@ -19,4 +19,4 @@ ensure  esx_weapon_accessories
             or
 start esx_weapon_accessories
 ```
-and cover `es_extended/config_weaponlua` to work
+and cover `es_extended/config.weaponlua` to work
